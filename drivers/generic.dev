@@ -3,34 +3,34 @@
 name    = generic name
 model   = generic model
 type    = generic type
-device	= Generic Device
-vendor	= River Micro LLC
+device  = Generic Device
+vendor  = River Micro LLC
 info    = https://rivermicro.com/wiki/devices/generic
 
 [driver]
 
 version = 0.1
 release = 1/1/2023
-vendor	= River Micro LLC
+vendor  = River Micro LLC
 info    = https://rivermicro.com/wiki/drivers/generic
 
 [setup]
 
-id 	 	  = IDN?
-init	  = mode0
+id      = IDN?
+init    = mode0
 
 [mode]
 
-mode0	  = MODE0
-mode1 	= MODE1
-mode2 	= MODE2
+mode0   = MODE0
+mode1   = MODE1
+mode2   = MODE2
 
 [get]
 
-read1 	= READ CH1?
-read2 	= READ CH2?
+read1   = READ CH1?
+read2   = READ CH2?
 
 [set]
 
-write1	= WRITE CH1 _
-write2	= WRITE CH2 _
+write1  = WRITE CH1 _
+write2  = WRITE CH2 _
