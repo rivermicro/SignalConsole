@@ -1,27 +1,27 @@
 [device]
 
-name	= generic name
-model	= generic model
-type	= generic type
+name    = generic name
+model   = generic model
+type    = generic type
 device	= Generic Device
 vendor	= River Micro LLC
-info	= https://rivermicro.com/wiki/devices/generic
+info    = https://rivermicro.com/wiki/devices/generic
 
 [driver]
 
 version = 0.1
 release = 1/1/2023
 vendor	= River Micro LLC
-info	= https://rivermicro.com/wiki/drivers/generic
+info    = https://rivermicro.com/wiki/drivers/generic
 
 [setup]
 
-id 	 	= IDN?
-init	= mode0
+id 	 	  = IDN?
+init	  = mode0
 
 [mode]
 
-mode0	= MODE0
+mode0	  = MODE0
 mode1 	= MODE1
 mode2 	= MODE2
 
